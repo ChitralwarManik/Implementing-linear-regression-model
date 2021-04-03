@@ -4,5 +4,5 @@ to see the correclation:
 `import matplotluib.pyplot as plt`
 `df.corr()`
 
-# OLS --(ORDINARY LEAST SQUARE)
+# OLS --(Ordinary Least Square)
 # Ridge and Lasso Regrassion
